@@ -25,7 +25,7 @@
 
 
 
-            BackgroundPanel backgroundPanel = new BackgroundPanel("D:\\THIRD SEMESTER MATERIAL\\DSA Theory and Lab\\DSA PROJECT\\BG.jpg");
+            BackgroundPanel backgroundPanel = new BackgroundPanel("D:\THIRD SEMESTER MATERIAL\DSA Theory and Lab\Flappy Bird Game\BG.jpg");
 
             backgroundPanel.setLayout(null);
             frame.add(backgroundPanel);
@@ -46,7 +46,7 @@
             nameField.setForeground(new Color(0, 0, 0));
             nameField.setBorder(BorderFactory.createLineBorder(new Color(100, 100, 100), 1));
             backgroundPanel.add(nameField);
-            music.playMusic("D:\\THIRD SEMESTER MATERIAL\\DSA Theory and Lab\\DSA PROJECT\\Music2.wav");
+            music.playMusic("D:\THIRD SEMESTER MATERIAL\DSA Theory and Lab\Flappy Bird Game\Music2.wav");
 
 
             JButton startGameButton = new JButton("Start Game");
@@ -111,7 +111,7 @@
             gameFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             gameFrame.setSize(358, 675);
             gameFrame.setLocationRelativeTo(null);
-            BackgroundPanel backgroundPanel = new BackgroundPanel("D:\\THIRD SEMESTER MATERIAL\\DSA Theory and Lab\\DSA PROJECT\\BG.jpg");
+            BackgroundPanel backgroundPanel = new BackgroundPanel("D:\THIRD SEMESTER MATERIAL\DSA Theory and Lab\Flappy Bird Game\BG.jpg);
             backgroundPanel.setLayout(null);
             gameFrame.setContentPane(backgroundPanel);
 
