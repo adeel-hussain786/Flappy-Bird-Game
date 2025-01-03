@@ -58,7 +58,8 @@ Flappy Bird is a classic arcade game where players guide a bird through gaps in 
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/d8169193-ba15-4be3-ad6c-e2abdcf47bcc) ![image](https://github.com/user-attachments/assets/9001b5d0-0bb6-43c7-80d7-394b5027f98f)
-![image](https://github.com/user-attachments/assets/c4d68ae2-65e8-488a-9cfd-1113892d0010) ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c4d68ae2-65e8-488a-9cfd-1113892d0010) ![image](https://github.com/user-attachments/assets/aee33158-620c-47fc-a83f-88492f43d147)
+
    
 ---
 
